@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CPU\\Projetos - VS\\Desafio_Sistema_Hospedagem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{215606DE-B16F-4DF2-8087-5DFDDC30EF51}|Desafio_Sistema_Hospedagem\\Desafio_Sistema_Hospedagem.csproj|c:\\users\\cpu\\projetos - vs\\desafio_sistema_hospedagem\\desafio_sistema_hospedagem\\entities\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215606DE-B16F-4DF2-8087-5DFDDC30EF51}|Desafio_Sistema_Hospedagem\\Desafio_Sistema_Hospedagem.csproj|solutionrelative:desafio_sistema_hospedagem\\entities\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215606DE-B16F-4DF2-8087-5DFDDC30EF51}|Desafio_Sistema_Hospedagem\\Desafio_Sistema_Hospedagem.csproj|c:\\users\\cpu\\projetos - vs\\desafio_sistema_hospedagem\\desafio_sistema_hospedagem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215606DE-B16F-4DF2-8087-5DFDDC30EF51}|Desafio_Sistema_Hospedagem\\Desafio_Sistema_Hospedagem.csproj|solutionrelative:desafio_sistema_hospedagem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215606DE-B16F-4DF2-8087-5DFDDC30EF51}|Desafio_Sistema_Hospedagem\\Desafio_Sistema_Hospedagem.csproj|c:\\users\\cpu\\projetos - vs\\desafio_sistema_hospedagem\\desafio_sistema_hospedagem\\entities\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215606DE-B16F-4DF2-8087-5DFDDC30EF51}|Desafio_Sistema_Hospedagem\\Desafio_Sistema_Hospedagem.csproj|solutionrelative:desafio_sistema_hospedagem\\entities\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215606DE-B16F-4DF2-8087-5DFDDC30EF51}|Desafio_Sistema_Hospedagem\\Desafio_Sistema_Hospedagem.csproj|c:\\users\\cpu\\projetos - vs\\desafio_sistema_hospedagem\\desafio_sistema_hospedagem\\entities\\suite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215606DE-B16F-4DF2-8087-5DFDDC30EF51}|Desafio_Sistema_Hospedagem\\Desafio_Sistema_Hospedagem.csproj|solutionrelative:desafio_sistema_hospedagem\\entities\\suite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CPU\\Projetos - VS\\Desafio_Sistema_Hospedagem\\Desafio_Sistema_Hospedagem\\Program.cs",
+              "RelativeDocumentMoniker": "Desafio_Sistema_Hospedagem\\Program.cs",
+              "ToolTip": "C:\\Users\\CPU\\Projetos - VS\\Desafio_Sistema_Hospedagem\\Desafio_Sistema_Hospedagem\\Program.cs",
+              "RelativeToolTip": "Desafio_Sistema_Hospedagem\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T12:07:20.949Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Reserva.cs",
+              "DocumentMoniker": "C:\\Users\\CPU\\Projetos - VS\\Desafio_Sistema_Hospedagem\\Desafio_Sistema_Hospedagem\\Entities\\Reserva.cs",
+              "RelativeDocumentMoniker": "Desafio_Sistema_Hospedagem\\Entities\\Reserva.cs",
+              "ToolTip": "C:\\Users\\CPU\\Projetos - VS\\Desafio_Sistema_Hospedagem\\Desafio_Sistema_Hospedagem\\Entities\\Reserva.cs",
+              "RelativeToolTip": "Desafio_Sistema_Hospedagem\\Entities\\Reserva.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAawCsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T12:29:23.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Suite.cs",
+              "DocumentMoniker": "C:\\Users\\CPU\\Projetos - VS\\Desafio_Sistema_Hospedagem\\Desafio_Sistema_Hospedagem\\Entities\\Suite.cs",
+              "RelativeDocumentMoniker": "Desafio_Sistema_Hospedagem\\Entities\\Suite.cs",
+              "ToolTip": "C:\\Users\\CPU\\Projetos - VS\\Desafio_Sistema_Hospedagem\\Desafio_Sistema_Hospedagem\\Entities\\Suite.cs",
+              "RelativeToolTip": "Desafio_Sistema_Hospedagem\\Entities\\Suite.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T12:09:42.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\CPU\\Projetos - VS\\Desafio_Sistema_Hospedagem\\Desafio_Sistema_Hospedagem\\Entities\\Pessoa.cs",
+              "RelativeDocumentMoniker": "Desafio_Sistema_Hospedagem\\Entities\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\CPU\\Projetos - VS\\Desafio_Sistema_Hospedagem\\Desafio_Sistema_Hospedagem\\Entities\\Pessoa.cs",
+              "RelativeToolTip": "Desafio_Sistema_Hospedagem\\Entities\\Pessoa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T12:08:10.104Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\CPU\Projetos - VS\Desafio_Sistema_Hospedagem\Desafio_Sistema_Hospedagem\bin\Debug\net8.0\Desafio_Sistema_Hospedagem.exe
+C:\Users\CPU\Projetos - VS\Desafio_Sistema_Hospedagem\Desafio_Sistema_Hospedagem\bin\Debug\net8.0\Desafio_Sistema_Hospedagem.deps.json
+C:\Users\CPU\Projetos - VS\Desafio_Sistema_Hospedagem\Desafio_Sistema_Hospedagem\bin\Debug\net8.0\Desafio_Sistema_Hospedagem.runtimeconfig.json
+C:\Users\CPU\Projetos - VS\Desafio_Sistema_Hospedagem\Desafio_Sistema_Hospedagem\bin\Debug\net8.0\Desafio_Sistema_Hospedagem.dll
+C:\Users\CPU\Projetos - VS\Desafio_Sistema_Hospedagem\Desafio_Sistema_Hospedagem\bin\Debug\net8.0\Desafio_Sistema_Hospedagem.pdb
+C:\Users\CPU\Projetos - VS\Desafio_Sistema_Hospedagem\Desafio_Sistema_Hospedagem\obj\Debug\net8.0\Desafio_Sistema_Hospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CPU\Projetos - VS\Desafio_Sistema_Hospedagem\Desafio_Sistema_Hospedagem\obj\Debug\net8.0\Desafio_Sistema_Hospedagem.AssemblyInfoInputs.cache
+C:\Users\CPU\Projetos - VS\Desafio_Sistema_Hospedagem\Desafio_Sistema_Hospedagem\obj\Debug\net8.0\Desafio_Sistema_Hospedagem.AssemblyInfo.cs
+C:\Users\CPU\Projetos - VS\Desafio_Sistema_Hospedagem\Desafio_Sistema_Hospedagem\obj\Debug\net8.0\Desafio_Sistema_Hospedagem.csproj.CoreCompileInputs.cache
+C:\Users\CPU\Projetos - VS\Desafio_Sistema_Hospedagem\Desafio_Sistema_Hospedagem\obj\Debug\net8.0\Desafio_Sistema_Hospedagem.dll
+C:\Users\CPU\Projetos - VS\Desafio_Sistema_Hospedagem\Desafio_Sistema_Hospedagem\obj\Debug\net8.0\refint\Desafio_Sistema_Hospedagem.dll
+C:\Users\CPU\Projetos - VS\Desafio_Sistema_Hospedagem\Desafio_Sistema_Hospedagem\obj\Debug\net8.0\Desafio_Sistema_Hospedagem.pdb
+C:\Users\CPU\Projetos - VS\Desafio_Sistema_Hospedagem\Desafio_Sistema_Hospedagem\obj\Debug\net8.0\Desafio_Sistema_Hospedagem.genruntimeconfig.cache
+C:\Users\CPU\Projetos - VS\Desafio_Sistema_Hospedagem\Desafio_Sistema_Hospedagem\obj\Debug\net8.0\ref\Desafio_Sistema_Hospedagem.dll
